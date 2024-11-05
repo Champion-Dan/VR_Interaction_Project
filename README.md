@@ -43,39 +43,41 @@ VR Experience Levels: Users of all experience levels interacted similarly with t
 
 
 
-User Feedback
+## User Feedback
+
 Here are the questions we asked during user testing, along with the responses we received from participants:
 
-How well do you think the proximity triggers worked?
+### How well do you think the proximity triggers worked?
+- "The first one worked well, but the second one needs to be higher."
+- "Worked well, not too many issues."
+- "Proximity worked well with no issues; went off as expected."
+- "Worked well, no issues."
+- "Hand trigger might have some issues with getting within range."
+- "They worked well; no issues, though the pole for the hand scanner could be higher."
+- "They worked well. No glitches."
 
-"The first one worked well, but the second one needs to be higher."
-"Worked well, not too many issues."
-"Proximity worked well with no issues; went off as expected."
-"Worked well, no issues."
-"Hand trigger might have some issues with getting within range."
-"They worked well; no issues, though the pole for the hand scanner could be higher."
-"They worked well. No glitches."
-What applications/games do you see this being used in?
+### What applications/games do you see this being used in?
+- "Normal prox triggers are usable in most games. Sound bar would be good for mini-games."
+- "Good for puzzle games; horror games work well with proximity triggers."
+- "Useful for rhythm games with sound bars and vector speed adjustments."
+- "Buttons can be used for most games; slider could serve as a UI element."
+- "Exploration games, with triggers enhancing the immersion."
+- "Puzzle games could benefit; proximity triggers are versatile."
+- "Nothing in particular comes to mind; I don’t play many games."
 
-"Normal prox triggers are usable in most games. Sound bar would be good for mini-games."
-"Good for puzzle games; horror games work well with proximity triggers."
-"Useful for rhythm games with sound bars and vector speed adjustments."
-"Buttons can be used for most games; slider could serve as a UI element."
-"Exploration games, with triggers enhancing the immersion."
-"Puzzle games could benefit; proximity triggers are versatile."
-"Nothing in particular comes to mind; I don’t play many games."
-What VR experience did you have prior to this class?
+### What VR experience did you have prior to this class?
+- "Very minimal, mostly standard games like Super Hot and Beat Saber."
+- "None."
+- "Developing some VR games."
+- "Very little, mostly VR sessions at friends' places with older VR setups."
+- "VR arcades and exploration games. Mentioned potential motion sickness when stationary but walking in VR."
+- "Limited experience, mostly with Beat Saber."
+- "Minimal experience with Super Hot and other games."
 
-"Very minimal, mostly standard games like Super Hot and Beat Saber."
-"None."
-"Developing some VR games."
-"Very little, mostly VR sessions at friends' places with older VR setups."
-"VR arcades and exploration games. Mentioned potential motion sickness when stationary but walking in VR."
-"Limited experience, mostly with Beat Saber."
-"Minimal experience with Super Hot and other games."
-Future Considerations
+## Future Considerations
+
 Based on the feedback, the following improvements are under consideration:
 
-Enhanced Range Customization: Adjustable range detection for different trigger types.
-Variable Trigger Placement: Allowing customizable trigger height for a more ergonomic setup.
-Expanded Game Application: Investigating additional interactions for puzzle and exploration VR games to add depth and variety.
+- **Enhanced Range Customization**: Adjustable range detection for different trigger types.
+- **Variable Trigger Placement**: Allowing customizable trigger height for a more ergonomic setup.
+- **Expanded Game Application**: Investigating additional interactions for puzzle and exploration VR games to add depth and variety.
